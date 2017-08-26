@@ -41,6 +41,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.AddNewEmployee = new System.Windows.Forms.Button();
             this.UpdateRecordEmployee = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -162,11 +163,21 @@
             this.UpdateRecordEmployee.Text = "Update Record";
             this.UpdateRecordEmployee.UseVisualStyleBackColor = true;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(297, 305);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(107, 13);
+            this.label6.TabIndex = 10;
+            this.label6.Text = "By Muhammad Talha";
+            // 
             // EmployeeForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(411, 330);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.UpdateRecordEmployee);
             this.Controls.Add(this.AddNewEmployee);
             this.Controls.Add(this.TelephoneTextBox);
@@ -205,6 +216,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button AddNewEmployee;
         private System.Windows.Forms.Button UpdateRecordEmployee;
+        private System.Windows.Forms.Label label6;
     }
 }
 

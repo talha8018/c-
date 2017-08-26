@@ -12,9 +12,20 @@ namespace EmployeeManagement
 {
     public partial class EmployeeForm : Form
     {
+
+
+
         public EmployeeForm()
         {
             InitializeComponent();
         }
+
+        private void FindEmployeeButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+       
+
     }
 }

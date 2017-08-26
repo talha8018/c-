@@ -1,9 +1,9 @@
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
-c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.EmployeeForm.resources
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.Cache
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
 c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+c:\users\talha\documents\visual studio 2013\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache

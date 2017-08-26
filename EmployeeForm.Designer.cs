@@ -151,6 +151,7 @@
             this.AddNewEmployee.TabIndex = 5;
             this.AddNewEmployee.Text = "Add New Employee";
             this.AddNewEmployee.UseVisualStyleBackColor = true;
+            this.AddNewEmployee.Click += new System.EventHandler(this.AddNewEmployee_Click);
             // 
             // UpdateRecordEmployee
             // 
